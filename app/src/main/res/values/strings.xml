@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Resistencia</string>
+    <string name="banda1">Banda 1</string>
+    <string name="banda2">Banda 2</string>
+    <string name="banda3">Banda 3</string>
+    <string name="banda4">Banda 4</string>
+    <string name="calcular">Calcular</string>
+
+    <string-array name="banda_1">
+        <item>Marrón</item>
+        <item>Rojo</item>
+        <item>Naranja</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Purpura</item>
+        <item>Gris</item>
+        <item>Blanco</item>
+    </string-array>
+
+    <string-array name="banda_2">
+        <item>Negro</item>
+        <item>Marrón</item>
+        <item>Rojo</item>
+        <item>Naranja</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Purpura</item>
+        <item>Gris</item>
+        <item>Blanco</item>
+    </string-array>
+
+    <string-array name="banda_3">
+        <item>Negro</item>
+        <item>Marrón</item>
+        <item>Rojo</item>
+        <item>Naranja</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Dorado</item>
+        <item>Plateado</item>
+    </string-array>
+
+    <string-array name="banda_4">
+        <item>Marrón</item>
+        <item>Rojo</item>
+        <item>Dorado</item>
+        <item>Plateado</item>
+    </string-array>
+</resources>
